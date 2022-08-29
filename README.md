@@ -29,30 +29,26 @@
 
 </p>
 
-## **🚀 My recent works:**
-*This section is updated.*
+## **🚀 Meus trabalhos recentes:**
+
 
 <p align="center" >
 
-<a href="https://github.com/ClevertonR/PROJETO-IFOOD-API">
-    * IFOOD-API
-  </a>
-<a href="https://github.com/ClevertonR/SCANTECH-PROJETO">
-    * SCANTECH-PROJETO
-  </a>
-<a href="https://github.com/ClevertonR/REQUESTS2.0-POSTMAN">
-    * REQUESTS2.0-POSTMAN
-  </a>
-<a href="https://github.com/ClevertonR/API-TESTES2">
-    * API-TESTES2
-  </a>
-<a href="https://github.com/ClevertonR/REQUESTS-POSTMAN">
-    * REQUESTS-POSTMAN
-  </a>
-<a href="https://github.com/ClevertonR/PetStore">
-    * PETSTORE
-  </a>
-  
+<table border="1">
+<colgroup>
+<col><col align="char" char=".">
+<thead>
+<tr><th> PROJETOS: </th><th> CLICK PARA ACESSAR: </th></tr>
+<tbody>
+<tr><td>👨🏾‍🚀IFOOD-API:            </td><td> 👉<a href="https://github.com/ClevertonR/PROJETO-IFOOD-API">__💾</a> </td></tr>
+<tr><td>👨🏾‍🚀PETSTORE:             </td><td> 👉<a href="https://github.com/ClevertonR/PetStore">__💾</a>          </td></tr>
+<tr><td>👨🏾‍🚀REQUESTS-POSTMAN:     </td><td> 👉<a href="https://github.com/ClevertonR/REQUESTS-POSTMAN">__💾</a>    </td></tr>
+<tr><td>👨🏾‍🚀API-TESTES2:          </td><td> 👉<a href="https://github.com/ClevertonR/API-TESTES2">__💾</a>        </td></tr>
+<tr><td>👨🏾‍🚀SCANTECH-PROJETOS:    </td><td> 👉<a href="https://github.com/ClevertonR/SCANTECH-PROJETO">__💾</a>   </td></tr>
+
+</tbody>
+</table>
+
 </p>
 
 **************************************************************************************************************
