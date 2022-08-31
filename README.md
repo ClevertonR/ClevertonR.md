@@ -7,6 +7,15 @@
 👋 Hello! I'm Cleverton Rodrigues, Brasileiro de Belo Horizonte Minas Gerais - Systems Analyst.
 </p>
 
+**************************************************************************************************************
+<h2>Final Fantasy 7 Rekam: Red XIII nao sera jogavel</h2>
+        <p>Primeira parte da recriação do clássico de Playstation não permitira que <br>
+        controlemos um heroi importante</p>            
+        <img src="https://sm.ign.com/t/ign_br/news/f/final-fant/final-fantasy-7-remake-red-xiii-is-not-a-playable-character_jvpt.280.jpg" alt="">
+![Cleverton](https://scontent.fplu3-1.fna.fbcdn.net/v/t1.6435-9/121317215_4524800454257739_6267379897765550601_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHASS3gSQ1leioIdOrh1cOdnqfyOhRaUP2ep_I6FFpQ_Zl43fR-NYVyddjIPGhlqUpEFuyd6WOFI9oVQC452wjM&_nc_ohc=POIj0kxYtqYAX8h2GYQ&_nc_ht=scontent.fplu3-1.fna&oh=00_AT_SoT_4cOw4C2AwBnYARmUhYjeleLF4LXfZrLF2xoXDJA&oe=63342366)
+
+**************************************************************************************************************
+
 * Cleverton Rodrigues, 34 years
 * QA Engineer
 * Systems Analyst
@@ -84,7 +93,6 @@
   <img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp"/>
 </p>
 <hr>
-
 
 
 
