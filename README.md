@@ -17,7 +17,7 @@
 * Systems Analyst
 * I have 10 years, 9 months of experience in the IT field
 <a href="https://is.gd/MeuWhatsAppAqui">
-<img src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg"/>
+<img src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg"/height="42" width="80">
 
 ## **💬 My skills:**
 
@@ -79,16 +79,19 @@
     <img alt=gmail src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
     <a href="https://is.gd/MeuWhatsAppAqui">
-    <img src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg"/>
+    <img src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg"/height="28" width="80">
     </a>
-</p>
+
 
 ********************************************************************************************************************
 
+
 <p align="center" >
-  <img src="https://i.giphy.com/media/26tn33aiTi1jkl6H6/giphy.webp"/>
+  <img src="https://i.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.webp"/height="220" width="220">
 </p>
+
 <hr>
+
 
 
 
