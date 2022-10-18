@@ -9,7 +9,7 @@
 
 **************************************************************************************************************
 
-![Cleverton](https://scontent.fplu3-1.fna.fbcdn.net/v/t1.6435-9/121317215_4524800454257739_6267379897765550601_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_eui2=AeHASS3gSQ1leioIdOrh1cOdnqfyOhRaUP2ep_I6FFpQ_Zl43fR-NYVyddjIPGhlqUpEFuyd6WOFI9oVQC452wjM&_nc_ohc=POIj0kxYtqYAX8h2GYQ&_nc_ht=scontent.fplu3-1.fna&oh=00_AT_SoT_4cOw4C2AwBnYARmUhYjeleLF4LXfZrLF2xoXDJA&oe=63342366)
+
 
 
 * Cleverton Rodrigues, 34 years
@@ -31,6 +31,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
+<input type="file">
 
 </p>
 
@@ -93,6 +94,7 @@
 </p>
 
 <hr>
+
 
 
 
