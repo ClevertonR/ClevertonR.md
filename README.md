@@ -75,7 +75,7 @@
     <a href="https://twitter.com/ClebimRodrigues">
     <img src="https://img.shields.io/badge/Twitter-307cc5?style=for-the-badge&logo=twitter&logoColor=white"/>
     </a>
-    <a href="www.linkedin.com/in/clevertonrodrigues">
+    <a href="https://www.linkedin.com/in/clevertonrodrigues?original_referer=">
     <img src="https://img.shields.io/badge/LinkedIn-307cc5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
     <a href="mailto:clebimnid@gmail.com">
@@ -89,11 +89,7 @@
 ********************************************************************************************************************
 
 
-<p align="center" >
-  <img src="https://i.giphy.com/media/Gf5QiP1TWCO8qYKmt7/giphy.webp"/height="220" width="220">
-</p>
 
-<hr>
 
 
 
