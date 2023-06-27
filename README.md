@@ -53,6 +53,7 @@
 <tr><td>🤖REQUESTS-POSTMAN:     </td><td> 👉<a href="https://github.com/ClevertonR/REQUESTS-POSTMAN">__💾</a>    </td></tr>
 <tr><td>🤖API-TESTES2:          </td><td> 👉<a href="https://github.com/ClevertonR/API-TESTES2">__💾</a>        </td></tr>
 <tr><td>🤖SCANTECH-PROJETOS:    </td><td> 👉<a href="https://github.com/ClevertonR/SCANTECH-PROJETO">__💾</a>   </td></tr>
+<tr><td>🤖CADASTRO_USUARIO_VB6:    </td><td> 👉<a href="https://github.com/ClevertonR/Cadastro-de-usu-rio-VB6">__💾</a>   </td></tr>
 
 </tbody>
 </table>
