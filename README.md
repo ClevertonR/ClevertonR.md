@@ -1,7 +1,7 @@
 
 
 
-## **🤖 About me:**
+## **About me:**
 
 <p align="center">
 👋 Hello! I'm Cleverton Rodrigues, Brasileiro de Belo Horizonte Minas Gerais - Systems Analyst.
@@ -10,14 +10,11 @@
 **************************************************************************************************************
 
 
-
-
 * Cleverton Rodrigues, 34 years
 * QA Engineer
 * Systems Analyst
 * I have 10 years, 9 months of experience in the IT field
-<a href="https://is.gd/MeuWhatsAppAqui">
-<img src="https://static.whatsapp.net/rsrc.php/ym/r/36B424nhiL4.svg"/height="42" width="80">
+
 
 ## **💬 My skills:**
 
@@ -30,6 +27,9 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
+
 
 <input type="file">
 
