@@ -46,7 +46,7 @@ I'm Cleverton Rodrigues, Brasileiro de Belo Horizonte Minas Gerais - Systems Ana
 <colgroup>
 <col><col align="char" char=".">
 <thead>
-<tr><th> PROJETOS: </th><th> CLICK PARA ACESSAR: </th></tr>
+<tr><th> PROJETOS: </th><th>Projeto:</th></tr>
 <tbody>
 <tr><td>🤖NEWMAN-API:           </td><td> 👉<a href="https://github.com/ClevertonR/newman"> 💾</a>                       </td></tr>
 <tr><td>🤖PROJETO-HUNTER:       </td><td> 👉<a href="https://github.com/ClevertonR/Projeto-Hunter"> 💾</a>               </td></tr>
